@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakhongir Turgunboev
-- 👀 I’m interested in learning Python,React,Django
+- 👀 I’m specialized in Python,React,Django
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on pygame,react
 - 📫 How to reach me jahongirbaxtiyorovich17@gmail.com
