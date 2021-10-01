@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jakhongir Turgunboev
-- 👀 I’m specialized in Python,React,Django
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on pygame,react
+- 👀 I’m specialized in Python,Django
+- 💞️ I’m looking to collaborate on interesting python projects.
 - 📫 How to reach me jahongirbaxtiyorovich17@gmail.com
 
 <!---
