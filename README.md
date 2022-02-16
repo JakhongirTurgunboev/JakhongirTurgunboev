@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jakhongir Turgunboev
-- 👀 I’m specialized in Python,Django
-- 💞️ I’m looking to collaborate on interesting python projects.
+- 👀 I’m specialized in Software development
 - 📫 How to reach me jahongirbaxtiyorovich17@gmail.com
 
 <!---
