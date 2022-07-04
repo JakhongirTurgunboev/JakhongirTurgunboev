@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakhongir Turgunboev
-- 👀 I’m specialized in Software development
+- 👀 I’m a Software engineer
 - 📫 How to reach me jahongirbaxtiyorovich17@gmail.com
 
 <!---
